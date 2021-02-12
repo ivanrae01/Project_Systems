@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.form{
+    height: 100%;
+    width: 100%;
+    background: url(bg.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    border-radius: 50%;
+}
+.form-box{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
