@@ -12,7 +12,7 @@
                 <button type="button" class="toggle-btn" onclick="register()">Register</button>
           </div>
             <div class="social-icons">
-            <img src="ffb.png">
+            <img src="ffb.png"> 
             <img src="twe.png">
             <img src="ins.png">
         </div> 
