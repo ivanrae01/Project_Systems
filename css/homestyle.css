@@ -1,0 +1,16 @@
+.background{
+    height: 100%;
+    width: 100%;
+    background: url(bg.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+#footer {
+    background-color: rgb(28, 132, 201);    
+
+.txt{
+    background-color: rgb(244, 248, 250); 
+
+}

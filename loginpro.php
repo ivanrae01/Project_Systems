@@ -19,7 +19,7 @@
                 session_start();
                 $_SESSION['email'] = $email;
             }
-            header("Location: homepage.php");
+            header("Location: homepage.html");
         }
         else{
 
